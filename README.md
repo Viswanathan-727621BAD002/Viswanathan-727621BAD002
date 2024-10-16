@@ -6,7 +6,7 @@
 
 - 🌍 I'm based in Udumalpet, India.
 - 🎓 Currently pursuing a B.Tech at Dr. Mahalingam College of Engineering and Technology (expected graduation in 2025).
-- 💼 I'm passionate about **Data Science**, **Networking**, and **Web Development**.
+- 💼 I'm passionate about **Data Science**, **Machine Learning**, and **Web Development**.
 - 🌱 I’m currently learning more about machine learning and AI.
 - 🤝 I’m looking to collaborate on exciting projects in data science and web development.
 - 💬 Feel free to ask me about programming, web development, or machine learning!
