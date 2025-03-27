@@ -55,9 +55,10 @@ Gained hands-on experience in developing and implementing machine learning and d
 
 ## 🌐 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/viswanathan-ramathas-a1a362243)
+- [LinkedIn]((https://www.linkedin.com/in/viswanathan-r-btech-aids/))
 - [Email](mailto:viswanathan092003@gmail.com)
 
 ---
+
 
 Thanks for visiting my profile! 😄
