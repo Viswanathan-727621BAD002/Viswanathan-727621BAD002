@@ -5,7 +5,7 @@
 ## 👨‍💻 About Me
 
 - 🌍 I'm based in Udumalpet, India.
-- 🎓 Currently pursuing a B.Tech at Dr. Mahalingam College of Engineering and Technology (expected graduation in 2025).
+- 🎓 B.Tech Artificial Intelligence and Data Science at Dr. Mahalingam College of Engineering and Technology (completed on April 2025).
 - 💼 I'm passionate about **Data Science**, **Machine Learning**, and **Web Development**.
 - 🌱 I’m currently learning more about machine learning and AI.
 - 🤝 I’m looking to collaborate on exciting projects in data science and web development.
@@ -13,7 +13,7 @@
 
 ## 🎓 Academic Profile
 
-- **B.Tech** - 9.35 CGPA (till semester) | Anna University
+- **B.Tech** - 9.35 CGPA  | Anna University
 - **HSC** - 89.3% | Sri Kannika Parameshwari Higher Secondary School
 - **SSLC** - 83.2% | Sri Kannika Parameshwari Higher Secondary School
 
@@ -51,6 +51,8 @@ Gained hands-on experience in developing and implementing machine learning and d
 
 2. **Predictive Analysis of Product Sales in the Paint Industry**  
    Analyzed past sales data to forecast paint sales, aiding in inventory management and marketing strategies.
+
+3. **Intelligent Browsing Activity and Monitoring System **
 
 
 ## 🌐 Connect with Me
