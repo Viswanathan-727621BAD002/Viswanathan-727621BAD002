@@ -52,7 +52,8 @@ Gained hands-on experience in developing and implementing machine learning and d
 2. **Predictive Analysis of Product Sales in the Paint Industry**  
    Analyzed past sales data to forecast paint sales, aiding in inventory management and marketing strategies.
 
-3. **Intelligent Browsing Activity and Monitoring System **
+3. **Intelligent Browsing Activity and Monitoring System**
+   A real-time browser monitoring solution to track, classify, and analyze user browsing behavior ethically and efficiently.
 
 
 ## 🌐 Connect with Me
